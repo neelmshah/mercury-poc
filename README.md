@@ -9,7 +9,7 @@ Let's refer to [Mercury](https://runmercury.com/) official site
 Create Python Virtual Environment
 
 ```
-python3 -m venv env
+python3 -m venv venv
 ```
 
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Add notebook
 
 ```
-add sample_report.ipynb 
+mercury add sample_report.ipynb 
 ```
 
 Run mercury service
