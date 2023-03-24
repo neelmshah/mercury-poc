@@ -1,7 +1,7 @@
 # Mercury-PoC
 Convert Jupyter notebook into interactive web apps &amp; more.
 
-Let's refer to [Mercury](https://runmercury.com/) official site
+Let's refer to [Mercury](https://runmercury.com/) official site to get deep dive
 
 
 ## Installation
